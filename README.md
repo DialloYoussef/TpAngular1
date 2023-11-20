@@ -1,5 +1,5 @@
 # Monprojet
-`Ce type a pour objectif principal juste de se familiariser avec les notions de component`
+`Ce type a pour objectif principal juste de se familiariser avec les notions de component` <br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
 ## Development server
